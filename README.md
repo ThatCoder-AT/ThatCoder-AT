@@ -65,9 +65,6 @@
 <div align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
   <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=Web&logoColor=black" alt="Portfolio" /></a>
-</div>
-
 <br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=150&section=footer" />
