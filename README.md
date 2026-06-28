@@ -20,7 +20,6 @@
 - 🔐 Conducting research in cybersecurity, focusing on offensive security and autonomous AI agents for pentesting.
 - 🧠 Experimenting heavily with local Large Language Models (LLMs) and optimizing AI inference.
 - 💻 Maintaining a complex dev environment across Windows and Kali Linux to support both development and security research.
-- 🎮 When I'm not coding or finding vulnerabilities, I'm probably grinding ranks in CS2 or Valorant.
 
 ---
 
@@ -64,16 +63,12 @@
 ### 🤝 Connect with Me
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:trivedi.aarav@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/aarav-trivedi-b57245414">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio-website.com">
-    <img src="https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=Web&logoColor=black" alt="Portfolio" />
-  </a>
-</div>
 
 <br>
 <p align="center">
